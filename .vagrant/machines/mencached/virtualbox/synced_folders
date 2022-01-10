@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"E:/Ambiente_Vagrant/UbuntuBionic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
